@@ -1,1 +1,2 @@
 # odin-recipes
+This project is the first of many to come. I will be creating a website consisting of multiple recipes following the Odin Project curriculum. The website will be built only using HTML as it will be the foundation of future projects. The goal of this project is to showcase what I've learnt about HTML in the odin project curriculum.
